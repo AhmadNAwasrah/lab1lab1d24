@@ -1,10 +1,10 @@
 import React from 'react';
-class Header extends React.Component()
+
+class Header extends React.Component
 {
 render()
 {
-return(  <nav>
-    <h1>Welcome To Home Page</h1>
+return(    <nav>
     <ul>
         <li>Home</li>
         <li>Contact us</li>
